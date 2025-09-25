@@ -1,0 +1,21 @@
+{
+    "name": "Yahaira S. Rosa Villafañe Card",
+    "short_name": "YahairaRosa",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#333333",
+    "description": "Business card page for Yahaira S. Rosa Villafañe.",
+    "icons": [
+        {
+            "src": "images/Logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/Logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
