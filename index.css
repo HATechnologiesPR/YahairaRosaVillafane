@@ -144,7 +144,7 @@ p {
   .card{ padding: 16px; }
   .image-container{ margin-bottom: 10px; }
   .banner{ height: 160px; }
-  h1{ font-size: 30px; }
+  h1{ font-size: 22px; white-space: nowrap; }
   .boton{ font-size: 15px; padding: 13px 0; }
   .social-btn{ width: 52px; height: 52px; font-size: 26px; }
 }
