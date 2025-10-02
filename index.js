@@ -30,7 +30,7 @@ FN:Yahaira S. Rosa Villafañe
 N:Rosa Villafañe;Yahaira S.;;;
 ORG:Plavica;
 TITLE:Coordinadora de RR HH;
-TEL;TYPE=CELL:787-564-2757
+TEL;TYPE=CELL:787-940-5056
 EMAIL:Yrosa@plavicapr.com
 URL:https://HATechnologiesPR.github.io/YahairaRosaVillafane
 NOTE: 
